@@ -1,0 +1,253 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+/*header start*/
+header {
+	
+}
+
+.wrapper {
+	width: 95%;
+    margin: 0 auto;
+    background-color: #DFDFDD;
+    overflow: hidden;
+}
+
+.logo {
+
+    width: 7%;
+    float: left;
+    border: 1px solid black;
+    min-height: 88px;
+    border-radius: 132px;
+    margin: 10px 10px;
+    background-color: #BCBDBF;
+    border: transparent;
+}
+
+.menu {
+	width: 40%;
+	float: right;
+}
+.menu ul {
+	margin-left: 158px;
+}
+.menu ul li {
+	border: 1px solid black;
+    min-height: 22px;
+    width: 80px;
+    float: left;
+    margin: auto 17px;
+    margin-top: 42px;
+    list-style: none;
+    background-color: #BCBDBF;
+    border: transparent;
+    border-radius: 5px;
+    display: block;
+
+}
+/*header end*/
+/*bannar start*/
+.bannar {
+
+}
+
+.wrapper1 {
+	width: 95%;
+    margin: 0 auto;
+    background-color: white;
+    overflow: hidden;
+}
+
+
+.bannar_left {
+    border: 1px solid black;
+    min-height: 250px;
+    background-color: #DFDFDD;
+    width: 30%;
+    margin-top: 10px;
+    border: transparent;
+    float: left;
+
+}
+
+.bannar_right {
+    width: 60%;
+    float: right;
+}
+.bannar_right1 {
+    border: 1px solid black;
+    margin-right: 170px;
+    min-height: 45px;
+    margin-top: 32px;
+    border-radius: 5px;
+    border: transparent;
+    background-color: #BCBDBF;
+}
+.bannar_right2 {
+    border: 1px solid black;
+    background-color: blue;
+    min-height: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: transparent;
+    background-color: #DFDFDD;
+}
+.bannar_right4 {
+    margin-top: 30px;
+}
+.bannar_right3 {
+    width: 70%;
+}
+.bannar_right6 {
+    width: 70%;
+}
+/*bannar end*/
+/*service start*/
+.service {
+    margin-top: 10px;
+}
+
+.wrapper2 {
+    width: 95%;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.single_s {
+    overflow: hidden;
+}
+
+.single_s1 {
+    width: 30%;
+    float: left;
+    margin-right: 3%;
+}
+
+.img {
+    border: 1px solid black;
+    min-height: 250px;
+    width: 100%;
+    background-color: #DFDFDD;
+    border: transparent;
+}
+
+.title {
+    border: 1px solid black;
+    min-height: 25px;
+    width: 60%;
+    background-color: #BCBDBF;
+    margin-top: 10px;
+    border: transparent;
+    border-radius: 5px;
+}
+
+.content1 {
+    border: 1px solid black;
+    min-height: 10px;
+    width: 100%;
+    background-color: #DFDFDD;
+    border: transparent;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.content2 {
+    border: 1px solid black;
+    min-height: 10px;
+    width: 100%;
+    background-color: #DFDFDD;
+    border: transparent;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.single_ss {
+    margin-top: 30px;
+}
+/*service end*/
+/*footer start*/
+footer {
+    margin-top: 20px;
+}
+.wrapper {
+
+}
+
+.single_list {
+    width: 25%;
+    float: left;
+    overflow: hidden;
+}
+
+.single_s2 {  
+    margin-right: 30px;
+    margin-bottom: 10px;
+}
+
+.imge {
+    border: 1px solid black;
+    min-height: 10px;
+    width: 100%;
+    background-color: #BDBCC1;
+    border: transparent;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.title1 {
+    border: 1px solid black;
+    min-height: 8px;
+    width: 100%;
+    background-color: #D2D2D2;
+    margin-top: 5px;
+    border: transparent;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.box {
+    width: 100%;
+    overflow: hidden;
+}
+.box ul {
+   list-style: none;
+
+}
+.box ul li {
+    border: 1px solid black;
+    float: right;
+    min-height: 22px;
+    width: 9%;
+    margin-right: 1%;
+    margin-left: 26px;
+    background-color: #BEBFC3;
+    border: transparent;
+    border-radius: 6px;
+}
+/*footer end*/
+footer {
+    /*overflow: hidden;*/
+}
+.footer1 {
+    width: 50%;
+    border:1px solid black;
+    min-height: 8px;
+    float: left;
+    border:transparent;
+    background-color: #D3D3D3;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.footer2 {
+    width: 20%;
+    border: 1px solid black;
+    min-height: 8px;
+    float: right;
+    border: transparent;
+    background-color: #D3D3D3;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
